@@ -1,0 +1,36 @@
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\bin\Debug\oyun.exe.config
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\bin\Debug\oyun.exe
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\bin\Debug\oyun.pdb
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.Form1.resources
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.Properties.Resources.resources
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.exe
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.pdb
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.Form2.resources
+c:\users\büşra\documents\visual studio 2015\Projects\oyun\oyun\obj\Debug\oyun.Form3.resources
+C:\Users\Büşra\Desktop\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.pdb
+C:\Users\Büşra\Desktop\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\Büşra\Desktop\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.Form1.resources
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.Form2.resources
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.Form3.resources
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.Properties.Resources.resources
+C:\Users\Büşra\Desktop\oyun\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache
+C:\Users\Büşra\Desktop\nesne ödevleri\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\Büşra\Desktop\nesne ödevleri\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\Büşra\Desktop\nesne ödevleri\oyun\oyun\obj\Debug\oyun.pdb
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\bin\Debug\oyun.exe.config
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.exe
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.pdb
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\bin\Debug\oyun.exe
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\bin\Debug\oyun.pdb
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.csprojResolveAssemblyReference.cache
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.Form1.resources
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.Form2.resources
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.Form3.resources
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.Properties.Resources.resources
+D:\busra yedek\Yedek\nesne ödevleri\oyun\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache
