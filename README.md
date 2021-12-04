@@ -1,2 +1,2 @@
 # Kim_millyoner_otomasyonu
- Lisede yaptığım basit çaplı bilgi  oyunudur.
+ Yaptığım basit çaplı bilgi  oyunu otomasyonudur.
